@@ -28,7 +28,7 @@ Para instalar a biblioteca Gosu no seu sistema operacional, consulte a documenta
 1. Abra o Terminal/Prompt;
 2. Clone/baixe este repositório para sua máquina;
 3. Navegue até a pasta savethespace;
-4. E rode o arquivo: $ ruby SaveTheSpace.rb;
+4. E rode o arquivo: $ ruby savethespace.rb;
 Divirta-se!  
 
   
