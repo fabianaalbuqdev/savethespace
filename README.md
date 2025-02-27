@@ -3,8 +3,6 @@
 Criei este jogo como um desafio pessoal, unindo aprendizado e nostalgia.  
 Sempre gostei desse estilo de jogo, então decidi recriá-lo do meu jeito, com carinho e com MUITA vontade de aprender.  
 
----
-
 A Terra está à beira da destruição.  
 Você é o último piloto capaz de impedir a invasão alienígena.  
 Sua nave é a única barreira.  
@@ -27,9 +25,10 @@ Para instalar a biblioteca Gosu no seu sistema operacional, consulte a documenta
 
 ## 🚀 Como rodar o jogo  
 
-1. Abra o **Terminal/Prompt**  
-2. Clone ou baixe este repositório para sua máquina  
-3. Navegue até a pasta do jogo:  
+1. Abra o Terminal/Prompt;
+2. Clone/baixe este repositório para sua máquina;
+3. Navegue até a pasta savethespace;
+4. E rode o arquivo: $ ruby SaveTheSpace.rb;
+Divirta-se!  
 
-   ```sh
-   cd game-save-the-space
+  
