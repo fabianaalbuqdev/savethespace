@@ -17,8 +17,7 @@ class Tutorial < Gosu::Window
   def initialize
     super 640, 480 
     self.caption = "Tutorial Game" 
-    @game_state = :menu 
-    @font = Gosu::Font.new(32, name: "arcade.ttf") 
+    @game_state = :menu  
     @menu_image = Gosu::Image.new("media/tela_inicial.png")
     @game_over_image = Gosu::Image.new("media/the_end.png")
     @explosion_images = Gosu::Image.load_tiles("media/explosion2.gif", 64, 64)
